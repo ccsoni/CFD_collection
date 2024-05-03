@@ -1,0 +1,13 @@
+To compute the 1D sod shock problem with 128 mesh grids,
+issue the following command:
+
+% ./make_plot.sh sod 128 
+
+The image files of the results are created in a directory sod_128.
+
+For other test cases, specify "lax" for the Lax's problem, "shu" for
+the Shu's problem, and "blanc" for the Le Blanc's problem.
+
+
+
+
